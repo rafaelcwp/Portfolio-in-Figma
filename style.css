@@ -1,0 +1,333 @@
+.rascunho {
+  background-color: #101010;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.rascunho .div {
+  background-color: #101010;
+  width: 903px;
+  height: 547px;
+  position: relative;
+}
+
+.rascunho .line {
+  position: absolute;
+  width: 882px;
+  height: 155px;
+  top: 370px;
+  left: 12px;
+}
+
+.rascunho .overlap-group {
+  position: relative;
+  width: 878px;
+  height: 155px;
+  background-image: url(./img/rectangle-3.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .overlap {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 43px;
+  left: 476px;
+  background-image: url(./img/rectangle-js.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .HTML {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 10px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.rascunho .CSS-wrapper {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 43px;
+  left: 573px;
+  background-image: url(./img/rectangle-js.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .CSS {
+  position: absolute;
+  width: 41px;
+  height: 59px;
+  top: 10px;
+  left: 19px;
+  object-fit: cover;
+}
+
+.rascunho .overlap-2 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 35px;
+  left: 661px;
+}
+
+.rascunho .rectangle-c {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 9px;
+  left: 9px;
+}
+
+.rascunho .c {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.rascunho .JS-wrapper {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 44px;
+  left: 767px;
+  background-image: url(./img/rectangle-js.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .JS {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 14px;
+  left: 13px;
+  object-fit: cover;
+}
+
+.rascunho .adobe {
+  position: absolute;
+  width: 379px;
+  height: 81px;
+  top: 43px;
+  left: 24px;
+}
+
+.rascunho .softwares {
+  position: absolute;
+  width: 101px;
+  height: 16px;
+  top: 15px;
+  left: 25px;
+}
+
+.rascunho .linguagens {
+  position: absolute;
+  width: 113px;
+  height: 21px;
+  top: 15px;
+  left: 483px;
+}
+
+.rascunho .img {
+  position: absolute;
+  width: 3px;
+  height: 109px;
+  top: 22px;
+  left: 438px;
+}
+
+.rascunho .overlap-wrapper {
+  position: absolute;
+  width: 884px;
+  height: 155px;
+  top: 195px;
+  left: 12px;
+}
+
+.rascunho .overlap-3 {
+  position: relative;
+  width: 878px;
+  height: 155px;
+  background-image: url(./img/rectangle-2.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .sobre-mim {
+  position: absolute;
+  width: 106px;
+  height: 16px;
+  top: 20px;
+  left: 25px;
+}
+
+.rascunho .meu-nome-rafael {
+  position: absolute;
+  width: 418px;
+  height: 79px;
+  top: 52px;
+  left: 24px;
+}
+
+.rascunho .ao-longo-de-meus {
+  position: absolute;
+  width: 387px;
+  height: 79px;
+  top: 52px;
+  left: 467px;
+}
+
+.rascunho .overlap-group-wrapper {
+  position: absolute;
+  width: 882px;
+  height: 155px;
+  top: 20px;
+  left: 12px;
+}
+
+.rascunho .overlap-4 {
+  position: relative;
+  width: 878px;
+  height: 155px;
+  background-image: url(./img/rectangle-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.rascunho .graphic-designer {
+  position: absolute;
+  width: 227px;
+  height: 29px;
+  top: 77px;
+  left: 197px;
+}
+
+.rascunho .rafael-h-martins {
+  position: absolute;
+  width: 277px;
+  height: 27px;
+  top: 44px;
+  left: 199px;
+}
+
+.rascunho .profile {
+  position: absolute;
+  width: 142px;
+  height: 138px;
+  top: 13px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.rascunho .exit-wrapper {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 51px;
+  left: 792px;
+  background-image: url(./img/rectangle-github.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .exit {
+  position: absolute;
+  width: 14px;
+  height: 24px;
+  top: 16px;
+  left: 22px;
+}
+
+.rascunho .overlap-5 {
+  position: absolute;
+  width: 128px;
+  height: 78px;
+  top: 50px;
+  left: 654px;
+}
+
+.rascunho .rectangle-linkedin {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 1px;
+  left: 69px;
+}
+
+.rascunho .rectangle-behance {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 0;
+  left: 0;
+}
+
+.rascunho .behance {
+  position: absolute;
+  width: 33px;
+  height: 21px;
+  top: 17px;
+  left: 11px;
+  background-blend-mode: color-dodge;
+  object-fit: cover;
+}
+
+.rascunho .linked-in {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 13px;
+  left: 80px;
+  object-fit: cover;
+}
+
+.rascunho .ass {
+  position: absolute;
+  width: 98px;
+  height: 40px;
+  top: 38px;
+  left: 13px;
+}
+
+.rascunho .ellipse-wrapper {
+  position: relative;
+  width: 97px;
+  height: 34px;
+  top: 2px;
+  left: -2px;
+  background-image: url(./img/rafael-h.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .ellipse {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  top: 22px;
+  left: 83px;
+}
+
+.rascunho .git-hub-wrapper {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 51px;
+  left: 585px;
+  background-image: url(./img/rectangle-github.png);
+  background-size: 100% 100%;
+}
+
+.rascunho .git-hub {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 10px;
+  left: 11px;
+  background-blend-mode: color-dodge;
+  object-fit: cover;
+}
